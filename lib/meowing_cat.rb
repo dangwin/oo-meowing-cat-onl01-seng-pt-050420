@@ -5,3 +5,9 @@ class Cat
   
 end
 
+  attr_accessor :meow
+  
+end
+
+
+
